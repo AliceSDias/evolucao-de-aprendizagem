@@ -1,4 +1,4 @@
-Conteúdos a serem trabalhados nesse módulo:
+Conteúdos a serem trabalhados no módulo 02:
 1 - Função (tipos de função)
 2 - Tipos de dados
 3 - Gestão de tempo
